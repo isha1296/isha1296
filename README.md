@@ -32,9 +32,3 @@ I love building projects, learning new technologies, and turning ideas into work
 
 ---
 
-##  Example Projects  
-- **Machine Learning Classifier (Python):** Simple ML model using scikit-learn  
--  **Chatbot (Python):** Rule-based chatbot for basic conversations  
--  **Algorithm Library (C++):** My collection of common algorithms and DSA programs  
--  **Java Desktop App:** Mini project built using Java Swing / JavaFX  
-
